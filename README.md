@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @h-guo18
-- 👀 I’m interested in AI optimization and Naturual Language Processing.
+- 👀 I’m interested in ML compilers and AI optimizations.
 - 🌱 I’m currently a MSCS student at UIUC.
 
 <!---
